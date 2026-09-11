@@ -5,3 +5,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/Insect-detection/',
 })
+
+
+
